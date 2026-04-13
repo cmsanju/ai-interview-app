@@ -339,6 +339,11 @@ Return ONLY valid JSON no markdown:
             🚀 Start AI Interview — {candidate.name}
           </button>
         </div>
+<div style={{ display:"inline-flex", alignItems:"center", gap:8, background:"rgba(0,212,170,0.08)", border:"1px solid rgba(0,212,170,0.22)", borderRadius:100, padding:"7px 20px", marginBottom:28 }}>
+            <Dot color="#00d4aa" pulse />
+            <span style={{ color:"#00d4aa", fontSize:11, letterSpacing:2.5, textTransform:"uppercase", fontWeight:600 }}>GMST SOLUTIONS PVT LTD.</span><br><br>
+          </div>
+        
       </div>
     </div>
   );
@@ -600,21 +605,4 @@ Return ONLY valid JSON no markdown:
     </div>
   );
 
-        if (screen === "lobby") return (
-    <div style={{ minHeight:"100vh", background:"#070b14", fontFamily:"'Outfit',sans-serif", color:"white", padding:24, position:"relative", overflow:"hidden" }}>
-      <GlobalStyles />
-      <div style={{ position:"fixed", inset:0, pointerEvents:"none", backgroundImage:"radial-gradient(ellipse at 15% 25%, rgba(0,112,243,0.09) 0%,transparent 55%), radial-gradient(ellipse at 85% 75%, rgba(0,212,170,0.07) 0%,transparent 55%)", zIndex:0 }} />
-      <div style={{ position:"fixed", width:"100%", height:1, background:"linear-gradient(90deg,transparent,rgba(0,212,170,0.08),transparent)", animation:"scanLine 8s linear infinite", zIndex:0 }} />
-
-      <div style={{ position:"relative", zIndex:1, maxWidth:920, margin:"0 auto" }}>
-        <div style={{ textAlign:"center", paddingTop:44, paddingBottom:52, animation:"floatUp .6s ease" }}>
-           <div style={{ display:"inline-flex", alignItems:"center", gap:8, background:"rgba(0,212,170,0.08)", border:"1px solid rgba(0,212,170,0.22)", borderRadius:100, padding:"7px 20px", marginBottom:28 }}>
-            <Dot color="#00d4aa" pulse />
-            <span style={{ color:"#00d4aa", fontSize:11, letterSpacing:2.5, textTransform:"uppercase", fontWeight:600 }}>GMST SOLUTIONS PVT LTD.</span><br><br>
-          </div>
-          
-        
-      </div>
-    </div>
-  );
 }
