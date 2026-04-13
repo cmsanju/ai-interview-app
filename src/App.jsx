@@ -303,7 +303,7 @@ Return ONLY valid JSON no markdown:
            
           <div style={{ display:"inline-flex", alignItems:"center", gap:8, background:"rgba(0,212,170,0.08)", border:"1px solid rgba(0,212,170,0.22)", borderRadius:100, padding:"7px 20px", marginBottom:28 }}>
             <Dot color="#00d4aa" pulse />
-            <span style={{ color:"#00d4aa", fontSize:11, letterSpacing:2.5, textTransform:"uppercase", fontWeight:600 }}>GMST SOLUTIONS PVT LTD.</span>
+            <span style={{ color:"#CDF7EF", fontSize:18, letterSpacing:2.5, textTransform:"uppercase", fontWeight:600 }}>GMST SOLUTIONS PVT LTD.</span>
           </div>
         </div>
 </div>
