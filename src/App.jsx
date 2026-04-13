@@ -303,8 +303,8 @@ Return ONLY valid JSON no markdown:
         <div style={{ textAlign:"center", paddingTop:44, paddingBottom:52, animation:"floatUp .6s ease" }}>
            <div style={{ display:"inline-flex", alignItems:"center", gap:8, background:"rgba(0,212,170,0.08)", border:"1px solid rgba(0,212,170,0.22)", borderRadius:100, padding:"7px 20px", marginBottom:28 }}>
             <Dot color="#00d4aa" pulse />
-            <span style={{ color:"#00d4aa", fontSize:11, letterSpacing:2.5, textTransform:"uppercase", fontWeight:600 }}>GMST SOLUTIONS PVT LTD.</span>
-          </div><br>
+            <span style={{ color:"#00d4aa", fontSize:11, letterSpacing:2.5, textTransform:"uppercase", fontWeight:600 }}>GMST SOLUTIONS PVT LTD.</span><br><br>
+          </div>
           <div style={{ display:"inline-flex", alignItems:"center", gap:8, background:"rgba(0,212,170,0.08)", border:"1px solid rgba(0,212,170,0.22)", borderRadius:100, padding:"7px 20px", marginBottom:28 }}>
             <Dot color="#00d4aa" pulse />
             <span style={{ color:"#00d4aa", fontSize:11, letterSpacing:2.5, textTransform:"uppercase", fontWeight:600 }}>AI-Powered · Emotion-Aware · Real-Time Evaluation</span>
