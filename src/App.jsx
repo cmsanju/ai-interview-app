@@ -306,6 +306,7 @@ Return ONLY valid JSON no markdown:
             <span style={{ color:"#00d4aa", fontSize:11, letterSpacing:2.5, textTransform:"uppercase", fontWeight:600 }}>GMST SOLUTIONS PVT LTD.</span>
           </div>
         </div>
+</div>
       <div style={{ position:"relative", zIndex:1, maxWidth:920, margin:"0 auto" }}>
         <div style={{ textAlign:"center", paddingTop:44, paddingBottom:52, animation:"floatUp .6s ease" }}>
            
